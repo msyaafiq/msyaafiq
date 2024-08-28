@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhamad Syafiq</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
----
 
 📫 How to reach me **syafiq01.work@gmail.com**
 
