@@ -63,7 +63,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/kong/kong-icon.svg" alt="kong" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/konghq/konghq-icon.svg" alt="kong" width="40" height="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/></td>
   </tr>
 </table>
