@@ -138,22 +138,14 @@
 </table>
 
 ---
-
-### 📈 GitHub Stats
+### GitHub Analytics
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=msyaafiq&show_icons=true&theme=dark" alt="Syafiq's GitHub stats" />
   </a>
-</p>
-
-### 🔥 GitHub Streak
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msyaafiq&theme=dark" alt="streak" />
 </p>
-
-### 🥇 Most Used Languages
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msyaafiq&theme=dark&layout=compact" alt="most-used-languages" />
