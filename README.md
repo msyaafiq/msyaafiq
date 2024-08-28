@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/msyaafiq" target="_blank">Muhamad Syafiq</a></h1>
 <h2 align="center">A Passionate Full Stack Developer</h2>
-<p align="center">
+<p align="left">
   📫 Reach me at syafiq01.work@gmail.com
 </p>
 
