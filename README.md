@@ -52,6 +52,7 @@
     <td align="center">Flutter</td>
     <td align="center">Kong API Gateway</td>
     <td align="center">RabbitMQ</td>
+    <td align="center">Keycloak</td>
   </tr>
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/></td>
@@ -65,6 +66,7 @@
     <td align="center"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/konghq/konghq-icon.svg" alt="kong" width="40" height="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/keycloak/keycloak-icon.svg" alt="keycloak" width="40" height="40"/></td>
   </tr>
 </table>
 
