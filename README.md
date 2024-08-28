@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Languages
+### 🌐 Languages
 
 <table>
   <tr>
@@ -116,7 +116,15 @@
 
 ---
 
-### 📈 GitHub Streak
+### 📈 GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=msyaafiq" alt="Syafiq's GitHub stats" />
+  </a>
+</p>
+
+### 🔥 GitHub Streak
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msyaafiq&theme=dark" alt="streak" />
