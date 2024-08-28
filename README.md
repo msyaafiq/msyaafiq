@@ -66,7 +66,7 @@
     <td align="center"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/konghq/konghq-icon.svg" alt="kong" width="40" height="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/keycloak/keycloak-icon.svg" alt="keycloak" width="40" height="40"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png?20200311211229" alt="keycloak" width="40" height="40"/></td>
   </tr>
 </table>
 
