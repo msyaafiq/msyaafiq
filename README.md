@@ -108,11 +108,12 @@
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow-lite" width="40" height="40"/></td>
     <td align="center"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/></td>
     <td align="center"><img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/></td>
-    <td align="center"><img src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" alt="pandas" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.netdata.cloud/img/pandas.png" alt="pandas" width="40" height="40"/></td>
     <td align="center"><img src="https://plotly.com/favicon.ico" alt="plotly" width="40" height="40"/></td>
-    <td align="center"><img src="https://jupyter.org/assets/main-logo.svg" alt="jupyter" width="40" height="40"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/180px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/></td>
   </tr>
 </table>
+
 
 
 ### 🧩 Environment, Testing & Other
