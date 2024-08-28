@@ -42,6 +42,9 @@
 <table>
   <tr>
     <td align="center">Spring Boot</td>
+    <td align="center">Keycloak</td>
+    <td align="center">Kong API Gateway</td>
+    <td align="center">RabbitMQ</td>
     <td align="center">React</td>
     <td align="center">Angular</td>
     <td align="center">Django</td>
@@ -50,12 +53,12 @@
     <td align="center">Express</td>
     <td align="center">Next.js</td>
     <td align="center">Flutter</td>
-    <td align="center">Kong API Gateway</td>
-    <td align="center">RabbitMQ</td>
-    <td align="center">Keycloak</td>
   </tr>
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/keycloak/keycloak-icon.svg" alt="keycloak" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/konghq/konghq-icon.svg" alt="kong" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
     <td align="center"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></td>
@@ -64,9 +67,6 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/konghq/konghq-icon.svg" alt="kong" width="40" height="40"/></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png?20200311211229" alt="keycloak" width="40" height="40"/></td>
   </tr>
 </table>
 
