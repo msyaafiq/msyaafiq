@@ -142,9 +142,9 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=msyaafiq&show_icons=true&theme=dark" alt="Syafiq's GitHub stats" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=msyaafiq&show_icons=true&theme=dark" alt="Syafiq's GitHub stats" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msyaafiq&theme=dark&layout=compact" alt="most-used-languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msyaafiq&theme=dark&layout=compact" alt="most-used-languages" />
 </p>
 
 <p align="left">
@@ -154,4 +154,5 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=msyaafiq&label=Profile%20views&color=0e75b6&style=flat" alt="msyaafiq" />
 </p>
+
 
