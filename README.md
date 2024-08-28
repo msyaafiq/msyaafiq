@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/keycloak/keycloak-icon.svg" alt="keycloak" width="40" height="40"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png?20200311211229" alt="keycloak" width="40" height="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/konghq/konghq-icon.svg" alt="kong" width="40" height="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
