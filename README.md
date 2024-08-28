@@ -144,11 +144,11 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=msyaafiq&show_icons=true&theme=dark" alt="Syafiq's GitHub stats" />
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msyaafiq&theme=dark" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msyaafiq&theme=dark&layout=compact" alt="most-used-languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msyaafiq&theme=dark&layout=compact" alt="most-used-languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msyaafiq&theme=dark" alt="streak" />
 </p>
 
 <p align="left">
