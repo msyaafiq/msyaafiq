@@ -93,6 +93,28 @@
   </tr>
 </table>
 
+### 🤖 Machine Learning & Data Science
+
+<table>
+  <tr>
+    <td align="center">TensorFlow Lite</td>
+    <td align="center">scikit-learn</td>
+    <td align="center">NumPy</td>
+    <td align="center">Pandas</td>
+    <td align="center">Plotly</td>
+    <td align="center">Jupyter</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow-lite" width="40" height="40"/></td>
+    <td align="center"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/></td>
+    <td align="center"><img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/></td>
+    <td align="center"><img src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" alt="pandas" width="40" height="40"/></td>
+    <td align="center"><img src="https://plotly.com/favicon.ico" alt="plotly" width="40" height="40"/></td>
+    <td align="center"><img src="https://jupyter.org/assets/main-logo.svg" alt="jupyter" width="40" height="40"/></td>
+  </tr>
+</table>
+
+
 ### 🧩 Environment, Testing & Other
 
 <table>
