@@ -120,7 +120,7 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=msyaafiq" alt="Syafiq's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=msyaafiq&theme=dark" alt="Syafiq's GitHub stats" />
   </a>
 </p>
 
