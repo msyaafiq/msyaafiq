@@ -142,9 +142,10 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" alt="swagger" width="40" height="40"/></td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHhRPpm1Lsf3BF1S3n-E9bfxK5kDIZf21Kv51pxtbvQ5FEcvUyxGXy6fVIFmp_ujwqyc&usqp=CAU" alt="swagger" width="40" height="40"/></td>
   </tr>
 </table>
+
 
 
 ---
