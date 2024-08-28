@@ -93,7 +93,7 @@
   </tr>
 </table>
 
-### 🤖 Machine Learning & Data Science
+### 🤖 Machine Learning & Data Science Framework
 
 <table>
   <tr>
